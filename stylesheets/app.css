@@ -6093,93 +6093,93 @@ a.th {
   .f-dropdown.large {
     max-width: 800px; }
 
-/* line 76, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+/* line 35, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
 .article-text {
   color: black;
   background-color: rgba(106, 123, 200, 0.6); }
 
-/* line 81, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+/* line 40, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
 #wrap {
   padding: 1em; }
-  /* line 82, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+  /* line 41, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
   #wrap h1, #wrap h2, #wrap h3, #wrap h4, #wrap h5, #wrap h6, #wrap p, #wrap li {
     color: black; }
-  /* line 83, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+  /* line 42, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
   #wrap a {
     color: #4a7474; }
 
-/* line 87, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+/* line 46, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
 .row > #main-sidebar {
   background-color: rgba(115, 175, 192, 0.5); }
-  /* line 88, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+  /* line 47, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
   .row > #main-sidebar h1, .row > #main-sidebar h2, .row > #main-sidebar h3, .row > #main-sidebar h4, .row > #main-sidebar h5, .row > #main-sidebar h6, .row > #main-sidebar p, .row > #main-sidebar a, .row > #main-sidebar li {
     color: black; }
 
-/* line 93, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+/* line 52, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
 footer {
   background-color: rgba(0, 0, 0, 0.3);
   padding: 1em; }
-  /* line 94, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+  /* line 53, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
   footer a, footer p, footer h6, footer h5, footer li {
     color: black; }
 
-/* line 99, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+/* line 58, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
 body {
   background-color: rgba(115, 175, 192, 0.2); }
 
-/* line 102, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+/* line 61, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
 .push-bullets {
   margin-left: 1em; }
 
-/* line 109, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+/* line 68, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
 .extra-huge-headline {
-  font-size: 8em;
+  font-size: 6em;
   line-height: 50%;
   text-align: center; }
 
-/* line 117, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+/* line 76, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
 .top-bar {
   margin-bottom: 0px; }
 
-/* line 120, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+/* line 79, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
 .status-headline {
   margin-bottom: 20px;
   text-decoration: underline;
   font-size: 0.8em;
   color: black; }
 
-/* line 131, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+/* line 90, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
 .front-center {
   font-size: 120%; }
 
-/* line 137, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+/* line 96, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
 #resume-wrap {
   background-color: rgba(115, 175, 192, 0.2); }
 
-/* line 138, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+/* line 97, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
 #objective p {
   padding: 0 20px; }
 
-/* line 140, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+/* line 99, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
 .resume {
   font-family: 'Cousine', sans-serif; }
-  /* line 143, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+  /* line 102, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
   .resume li {
     padding: 0 5em 0 0; }
-  /* line 145, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+  /* line 104, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
   .resume hr {
     border: 3px solid #999; }
-  /* line 146, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+  /* line 105, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
   .resume h4 {
     font-size: 1.3em; }
-  /* line 147, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+  /* line 106, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
   .resume h6 {
     letter-spacing: 2px;
     margin: 0px; }
-  /* line 149, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+  /* line 108, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
   .resume .ul {
     margin: 0 0 32px 17px; }
-  /* line 150, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+  /* line 109, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
   .resume dt {
     font-style: italic;
     font-weight: bold;
@@ -6189,30 +6189,30 @@ body {
     float: right;
     height: 100px;
     border-right: 3px solid #999; }
-  /* line 158, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+  /* line 117, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
   .resume .dd {
     float: right; }
 
-/* line 162, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+/* line 121, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
 .res-highlights h4 > a {
   color: black !important; }
 
-/* line 164, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+/* line 123, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
 .resume-sub-header {
   padding: 0 0 0 1em; }
 
-/* line 168, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+/* line 127, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
 .resume-title-text {
   line-height: 1; }
 
-/* line 173, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+/* line 132, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
 .resume-title-name {
   padding: 10px 0 0 10px;
   font-size: 42px;
   font-weight: bold;
   letter-spacing: 1px; }
 
-/* line 180, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
+/* line 139, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
 .resume-timeline {
   color: gray;
   float: right;
