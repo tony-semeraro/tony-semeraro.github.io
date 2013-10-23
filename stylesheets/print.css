@@ -11,46 +11,67 @@ body {
   padding: 0 10px;
   max-width: 50em; }
 
-/* line 20, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/print.css.scss */
+/* line 18, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/print.css.scss */
+ul > li > ul {
+  padding-left: 1.3em; }
+
+/* line 24, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/print.css.scss */
 .resume {
   margin: 0 3em 0 3em;
   font-family: 'Cousine', sans-serif; }
-  /* line 21, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/print.css.scss */
+  /* line 25, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/print.css.scss */
   .resume a {
     text-decoration: none;
     color: black !important; }
-  /* line 25, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/print.css.scss */
-  .resume p, .resume li, .resume dt, .resume dd, .resume span {
-    font-size: 0.8em; }
   /* line 29, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/print.css.scss */
+  .resume p, .resume li, .resume dd, .resume span {
+    font-size: 12px; }
+  /* line 33, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/print.css.scss */
+  .resume h4 {
+    font-size: 16px;
+    padding: 0 0 0 5em; }
+  /* line 36, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/print.css.scss */
   .resume h6 {
     font-size: 0.8em; }
-  /* line 32, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/print.css.scss */
+  /* line 39, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/print.css.scss */
   .resume li {
-    padding: 0 0 0 1em; }
-  /* line 33, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/print.css.scss */
+    padding: 0 0 0 0em; }
+  /* line 40, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/print.css.scss */
   .resume hr {
     border: 3px solid black; }
-  /* line 34, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/print.css.scss */
-  .resume h4 {
-    padding: 0 0 0 5em;
-    font-size: 1em; }
-  /* line 38, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/print.css.scss */
+  /* line 41, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/print.css.scss */
+  .resume dd > h4:nth-child(1) {
+    padding-top: 2em; }
+  /* line 42, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/print.css.scss */
   .resume dt {
     font-weight: bold;
     text-align: right;
+    padding: 0 1em 1em 0;
     float: left; }
 
-/* line 50, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/print.css.scss */
+/* line 54, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/print.css.scss */
 .resume-sub-header div, .resume-sub-header span, .resume-sub-header p {
   display: inline; }
 
-/* line 55, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/print.css.scss */
+/* line 56, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/print.css.scss */
+.title-location {
+  padding: 0em 0em 0em 0em;
+  float: right; }
+
+/* line 61, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/print.css.scss */
+.res-schools p {
+  padding: 0em 0em 0em 6.5em; }
+
+/* line 63, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/print.css.scss */
+#objective {
+  padding-top: 1em; }
+
+/* line 68, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/print.css.scss */
 .resume-title-name {
   font-size: 1.7em;
   font-weight: bold; }
 
-/* line 61, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/print.css.scss */
+/* line 74, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/print.css.scss */
 .resume-timeline {
   color: gray;
   float: right;
