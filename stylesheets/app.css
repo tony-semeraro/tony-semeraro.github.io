@@ -6134,7 +6134,6 @@ body {
 /* line 68, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
 .extra-huge-headline {
   font-size: 6em;
-  line-height: 50%;
   text-align: center; }
 
 /* line 76, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
@@ -6210,7 +6209,7 @@ body {
 
 /* line 135, /Users/tonysemeraro/Desktop/personal site/tony-s3meraro-com/source/stylesheets/app.css.scss */
 .profession > p {
-  font-size: 1.7em;
+  font-size: 1.4em;
   text-align: right;
   padding: 0 26px 0 0; }
 
