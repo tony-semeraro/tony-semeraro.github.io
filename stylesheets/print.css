@@ -18,72 +18,76 @@ ul > li > ul {
   padding-left: 1.3em; }
 
 /* line 20, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
+dd ul {
+  padding-left: 7em; }
+
+/* line 24, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
 .resume {
   margin: 0 2.5em 0 2.5em; }
-  /* line 21, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
+  /* line 25, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
   .resume a {
     text-decoration: none;
     color: black !important; }
-  /* line 25, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
+  /* line 29, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
   .resume p, .resume li, .resume dd, .resume span {
     font-size: 11px; }
-  /* line 28, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
+  /* line 32, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
   .resume h4 {
     font-size: 14px;
     padding: 0 0 0 4em;
     margin: 0 0 0 0; }
-  /* line 32, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
+  /* line 36, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
   .resume h6 {
     font-size: 0.8em; }
-  /* line 35, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
+  /* line 39, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
   .resume li {
     padding: 0 0 0 0em; }
-  /* line 36, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
+  /* line 40, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
   .resume hr {
     border: 3px solid black; }
-  /* line 37, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
+  /* line 41, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
   .resume hr.thin-rule {
     border: 0px;
     border: none;
     line-height: 0px;
     margin: 0 0 0 0;
     border: 0 0 0 0; }
-  /* line 44, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
+  /* line 48, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
   .resume dd > h4:nth-child(1) {
     padding-top: 1.8em; }
-  /* line 45, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
+  /* line 49, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
   .resume dt {
     font-weight: bold;
     text-align: right;
     padding: 0 1em 1em 0;
     float: left; }
 
-/* line 55, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
+/* line 59, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
 .resume-sub-header div, .resume-sub-header span, .resume-sub-header p {
   display: inline; }
 
-/* line 57, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
+/* line 61, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
 .title-location {
   padding: 0em 0em 0em 0em;
   float: right; }
 
-/* line 62, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
+/* line 66, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
 .res-schools p {
   padding: 0em 0em 0em 5.5em; }
 
-/* line 64, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
+/* line 68, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
 #objective {
   padding-top: 2.5em; }
-  /* line 66, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
+  /* line 70, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
   #objective p {
     padding: 0 20px; }
 
-/* line 69, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
+/* line 73, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
 .resume-title-name {
   font-size: 1.6em;
   font-weight: bold; }
 
-/* line 74, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
+/* line 78, /Users/tonysemeraro/Documents/Github_repos/tony-s3meraro-com/source/stylesheets/print.css.scss */
 .resume-timeline {
   color: gray;
   float: right;
